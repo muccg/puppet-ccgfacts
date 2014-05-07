@@ -1,4 +1,4 @@
-puppet-ccgcompute
+puppet-ccgfacts
 =================
 
 Puppet Module for CCG private facter facts
