@@ -1,4 +1,3 @@
-#Maps dmidecode information to factvars
 if FileTest.exists?("/sbin/ip")
 
   # Run ip route and set the result in gateway
